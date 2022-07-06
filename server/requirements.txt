@@ -1,0 +1,8 @@
+git+https://github.com/openai/CLIP.git
+flask
+flask-cors
+scikit-image
+matplotlib
+opencv-python
+Pillow
+numpy
